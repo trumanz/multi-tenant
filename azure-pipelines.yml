@@ -1,0 +1,8 @@
+jobs:
+  - job: "build"
+    pool:
+      vmImage: "ubuntu-18.04"
+    steps:
+      - script: maven package
+        displayName: 'build package'
+
