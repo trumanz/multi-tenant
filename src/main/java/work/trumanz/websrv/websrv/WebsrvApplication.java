@@ -1,4 +1,4 @@
-package com.youhualin.websrv.websrv;
+package work.trumanz.websrv.websrv;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
